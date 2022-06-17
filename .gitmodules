@@ -1,3 +1,6 @@
 [submodule "IEngine_Robotics"]
 	path = IEngine_Robotics
 	url = ../IEngine_Robotics.git
+[submodule "IRCamera_OpenCV__QtWidget"]
+	path = IRCamera_OpenCV__QtWidget
+	url = ../IRCamera_OpenCV__QtWidget.git
