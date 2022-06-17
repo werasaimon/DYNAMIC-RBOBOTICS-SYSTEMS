@@ -9,7 +9,7 @@ C/C++ QT ROBOTICS ESP32 Arduino OpenCV
 
 
 
-<br/>
+<br/> <br/> 
 
 ***
 
@@ -17,11 +17,9 @@ C/C++ QT ROBOTICS ESP32 Arduino OpenCV
 
 ![bandicam 2020-07-31 03-50-36-209](https://github.com/werasaimon/IEngine_Robotics/blob/test/img/demo.png)
 
-
-
+---
+<br/> <br/> 
 ***
-
-<br/> 
 
 ## Qt-Interface IR_Camera
 ![gjkabc](https://github.com/werasaimon/IRCamera_OpenCV__QtWidget/blob/main/image/thermal_img.png)
