@@ -10,3 +10,6 @@
 [submodule "VideoCameras_PiplineStream"]
 	path = VideoCameras_PiplineStream
 	url = ../VideoCameras_PiplineStream.git
+[submodule "Robot-Remote_Control"]
+	path = Robot-Remote_Control
+	url = ../Robot-Remote_Control.git
