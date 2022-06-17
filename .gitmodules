@@ -1,0 +1,3 @@
+[submodule "IEngine_Robotics"]
+	path = IEngine_Robotics
+	url = ../IEngine_Robotics.git
