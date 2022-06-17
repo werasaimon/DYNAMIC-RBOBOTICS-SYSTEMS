@@ -7,3 +7,6 @@
 [submodule "Robot_SourceCode_-ESP32-"]
 	path = Robot_SourceCode_-ESP32-
 	url = ../Robot_SourceCode_-ESP32-.git
+[submodule "VideoCameras_PiplineStream"]
+	path = VideoCameras_PiplineStream
+	url = ../VideoCameras_PiplineStream.git
