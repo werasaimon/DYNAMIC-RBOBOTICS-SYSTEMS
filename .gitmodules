@@ -4,3 +4,6 @@
 [submodule "IRCamera_OpenCV__QtWidget"]
 	path = IRCamera_OpenCV__QtWidget
 	url = ../IRCamera_OpenCV__QtWidget.git
+[submodule "Robot_SourceCode_-ESP32-"]
+	path = Robot_SourceCode_-ESP32-
+	url = ../Robot_SourceCode_-ESP32-.git
