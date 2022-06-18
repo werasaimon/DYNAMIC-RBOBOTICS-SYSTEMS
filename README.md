@@ -57,9 +57,8 @@ https://leotronics.eu/en/
 # MultiCameras Stream _Client/Server [Qt Widget]
 
 ```
-ghghgfh
-fghfghgfh
-gfhgh
+Захвата видеопотока с помощю OpenCV и трансляции через интернет или WiFi-связь [Client/Server].
+Код основан на библиотеки OpenCV и Qt-Framework 
 ```
 
 ![](https://github.com/werasaimon/DYNAMIC-RBOBOTICS-SYSTEMS/blob/main/data/img/Streming%204-Cameras.png)
@@ -73,9 +72,8 @@ gfhgh
 # Remote Control [Wi-Fi] for Android
 
 ```
-ghghgfh
-fghfghgfh
-gfhgh
+Удаленный доступ к роботу через интернет или WiFi-связь . 
+Приложение джойстик для упраления роботом через Android-Смартфон 
 ```
 
 ![bandicam 2020-07-31 03-50-36-209](https://github.com/werasaimon/Robot-Remote_Control/blob/main/img/joystik.jpg)
