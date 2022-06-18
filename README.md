@@ -7,14 +7,9 @@ https://leotronics.eu/en/
 <br>
 
 * IEngine_Robotics - Симулятор робота на основе физического симулятора законов физики [Физика - Нютона]
-<br/>
-* Robot-Remote_Control - Программное обеспечение для удаленного доступа к роботу через интернет или WiFi-связь [Arduino-Joistik]
-<br/> 
-* VideoCameras_PiplineStream  - Программное обеспечение для захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV][Client/Server]
-<br/> 
+* Robot-Remote_Control - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik]
+* VideoCameras_PiplineStream  - Захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV] [Client/Server]
 * IInteligenEngine [ Physics System ]
-<br/>
-* fff
 * 
 <br/>
 
