@@ -4,21 +4,6 @@ C/C++ QT ROBOTICS ESP32 Nvidia-Jetson-Nano Arduino OpenCV
 # Пакет программ и систем для автоматизации робота пожарника !
 https://leotronics.eu/en/
 
-<br>
-
-* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Ньютона]
-,,,
-* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik]
-,,,
-* <b> VideoCameras_PiplineStream </b> - Захвата видеопотока и трансляции через интернет или WiFi-связь [OpenCV]
-,,,
-* <b> IRCamera_OpenCV__QtWidget </b> - Захвата видеопотока с тепловизора [Optris IX80]
-,,,
-* <b> Robot_SourceCode_-ESP32  </b> - Исходный код контроллера управления роботом [ESP32-WROOM-D1]
-,,,
-<br/>
-
-
 ---
 1. <b> IEngine_Robotics </b> 
 
@@ -111,4 +96,19 @@ https://leotronics.eu/en/
 ![](https://github.com/werasaimon/DYNAMIC-RBOBOTICS-SYSTEMS/blob/main/data/img/Streming%204-Cameras.png)
 
 
+
+
+<br/><br/>
+
+* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Ньютона]
+,,,
+* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik]
+,,,
+* <b> VideoCameras_PiplineStream </b> - Захвата видеопотока и трансляции через интернет или WiFi-связь [OpenCV]
+,,,
+* <b> IRCamera_OpenCV__QtWidget </b> - Захвата видеопотока с тепловизора [Optris IX80]
+,,,
+* <b> Robot_SourceCode_-ESP32  </b> - Исходный код контроллера управления роботом [ESP32-WROOM-D1]
+,,,
+<br/>
 
