@@ -6,15 +6,15 @@ https://leotronics.eu/en/
 
 <br>
 
-* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Нютона]
+* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Ньютона] ,,,
 ,,,
-* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik]
+* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik] ,,,
 ,,,
-* <b> VideoCameras_PiplineStream </b> - Захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV] 
+* <b> VideoCameras_PiplineStream </b> - Захвата видеопотока и трансляции через интернет или WiFi-связь [OpenCV] ,,, 
 ,,,
-* <b> IRCamera_OpenCV__QtWidget </b> - Захавта видиопотока с тепловизора [Optris IX80] 
+* <b> IRCamera_OpenCV__QtWidget </b> - Захвата видеопотока с тепловизора [Optris IX80] ,,,
 ,,,
-* <b> Robot_SourceCode_-ESP32  </b> - Исходный код контролера управления роботом [ESP32-WROOM-D1]
+* <b> Robot_SourceCode_-ESP32  </b> - Исходный код контроллера управления роботом [ESP32-WROOM-D1]
 <br/>
 
 ![bandicam 2020-07-31 03-50-36-209](https://leotronics.eu/index.php?option=com_gridbox&task=gridbox.compressImagelaptop&image=%2Fimages%2FTrackReitar-FireFighting%2Ffirefighting-leotrinics.jpeg)
