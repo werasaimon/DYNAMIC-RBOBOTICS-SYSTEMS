@@ -37,8 +37,12 @@ https://leotronics.eu/en/
 4.  <b> IRCamera_OpenCV__QtWidget </b>  
     
     > Захвата видеопотока с тепловизора
+---
+5.  <b> Robot_SourceCode_-ESP32 </b>  
+    
+    > Исходный код контроллера управления роботом [ESP32-WROOM-D1]
  
-
+---
 
 
 
