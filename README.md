@@ -12,9 +12,9 @@ https://leotronics.eu/en/
 ,,,
 * VideoCameras_PiplineStream  - Захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV] 
 ,,,
-* IRCamera_OpenCV__QtWidget - Захавта видиопотока с тепловизора Optris IX80 
+* IRCamera_OpenCV__QtWidget - Захавта видиопотока с тепловизора [Optris IX80] 
 ,,,
-* 
+* Robot_SourceCode_-ESP32 - Исходный код контролера управления роботом [ESP32-WROOM-D!]
 <br/>
 
 <br/> <br/> 
