@@ -29,18 +29,22 @@ https://leotronics.eu/en/
 2. <b> Robot-Remote_Control </b> 
 
     > Удаленный доступ к роботу через интернет или WiFi-связь !!!
+    > [Arduino-Joistik]
 ---
 3. <b> VideoCameras_PiplineStream </b> 
 
     > Захвата видеопотока и трансляции через интернет или WiFi-связь !!!
+    > [OpenCV]
 ---
 4.  <b> IRCamera_OpenCV__QtWidget </b>  
     
-    > Захвата видеопотока с тепловизора
+    > Захвата видеопотока с тепловизора 
+    > [Optris IX80]
 ---
 5.  <b> Robot_SourceCode_-ESP32 </b>  
     
-    > Исходный код контроллера управления роботом [ESP32-WROOM-D1]
+    > Исходный код контроллера управления роботом 
+    > [ESP32-WROOM-D1]
  
 ---
 
