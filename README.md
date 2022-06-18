@@ -14,7 +14,7 @@ https://leotronics.eu/en/
     > Законов физики. [Физика - Ньютона]
 
 ---
-2. <b> Robot-Remote_Control </b> 
+2. [<b> Robot-Remote_Control </b> ](https://github.com/werasaimon/Robot-Remote_Control/tree/main)
 
     > Удаленный доступ к роботу через интернет или WiFi-связь !!!
     > [Arduino-Joistik]
