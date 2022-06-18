@@ -3,12 +3,14 @@ C/C++ QT ROBOTICS ESP32 Arduino OpenCV
 
 # Пакет программ и систем для автоматизации робота пожарника !
 
-<br>  
+<br>
+
 * Nvidia-Jetson-Nano V3
 * ESP32 WROOM D...
 * Qt-Freamwork
 * IInteligenEngine [ Physics System ]
 * Quick summary
+* 
 <br/>
 
 <br/> <br/> 
