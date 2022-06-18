@@ -12,7 +12,8 @@ https://leotronics.eu/en/
 ,,,
 * VideoCameras_PiplineStream  - Захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV] 
 ,,,
-* IRCamera_OpenCV__QtWidget - Захавта видиопотока с тепловизора 
+* IRCamera_OpenCV__QtWidget - Захавта видиопотока с тепловизора Optris IX80 
+,,,
 * 
 <br/>
 
