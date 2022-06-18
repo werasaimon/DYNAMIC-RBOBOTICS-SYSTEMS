@@ -30,6 +30,21 @@ https://leotronics.eu/en/
 
 ![bandicam 2020-07-31 03-50-36-209](https://github.com/werasaimon/IEngine_Robotics/blob/test/img/demo.png)
 
+
+---
+<br/> <br/> 
+***
+
+
+# Remote Control [Wi-Fi] for Android
+
+```
+Удаленный доступ к роботу через интернет или WiFi-связь . 
+Приложение джойстик для упраления роботом через Android-Смартфон 
+```
+
+![bandicam 2020-07-31 03-50-36-209](https://github.com/werasaimon/Robot-Remote_Control/blob/main/img/joystik.jpg)
+
 ---
 <br/> <br/> 
 ***
@@ -64,16 +79,4 @@ https://leotronics.eu/en/
 ![](https://github.com/werasaimon/DYNAMIC-RBOBOTICS-SYSTEMS/blob/main/data/img/Streming%204-Cameras.png)
 
 
----
-<br/> <br/> 
-***
 
-
-# Remote Control [Wi-Fi] for Android
-
-```
-Удаленный доступ к роботу через интернет или WiFi-связь . 
-Приложение джойстик для упраления роботом через Android-Смартфон 
-```
-
-![bandicam 2020-07-31 03-50-36-209](https://github.com/werasaimon/Robot-Remote_Control/blob/main/img/joystik.jpg)
