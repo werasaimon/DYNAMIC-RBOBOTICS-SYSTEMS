@@ -17,7 +17,9 @@ https://leotronics.eu/en/
 * <b> Robot_SourceCode_-ESP32  </b> - Исходный код контролера управления роботом [ESP32-WROOM-D!]
 <br/>
 
-<br/> <br/> 
+<br> 
+![](https://leotronics.eu/index.php?option=com_gridbox&task=gridbox.compressImagelaptop&image=%2Fimages%2FTrackReitar-FireFighting%2Ffirefighting-leotrinics.jpeg)
+<br/> 
 
 
 ***
