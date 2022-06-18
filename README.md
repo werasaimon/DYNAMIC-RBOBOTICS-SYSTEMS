@@ -1,5 +1,5 @@
 # Dynamic-Robotics-System
-C/C++ QT ROBOTICS ESP32 Arduino OpenCV
+C/C++ QT ROBOTICS ESP32 Nvidia-Jetson-Nano Arduino OpenCV 
 
 # Пакет программ и систем для автоматизации робота пожарника !
 
@@ -10,7 +10,7 @@ C/C++ QT ROBOTICS ESP32 Arduino OpenCV
 * Qt-Freamwork
 * IInteligenEngine [ Physics System ]
 * Quick summary
-* 
+* fff
 <br/>
 
 <br/> <br/> 
