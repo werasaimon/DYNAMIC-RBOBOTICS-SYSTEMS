@@ -5,7 +5,7 @@ C/C++ QT ROBOTICS ESP32 Nvidia-Jetson-Nano Arduino OpenCV
 https://leotronics.eu/en/
 
 
-[пример](http://example.com/ "Необязательная подсказка")
+[<b> IEngine_Robotics </b> ](http://example.com/)
 
 ---
 1. <b> IEngine_Robotics </b> 
