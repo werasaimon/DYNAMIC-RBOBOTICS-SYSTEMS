@@ -6,13 +6,13 @@ https://leotronics.eu/en/
 
 <br>
 
-* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Ньютона] ,,,
+* <b> IEngine_Robotics </b> - Симулятор робота на основе физического симулятора законов физики [Физика - Ньютона]
 ,,,
-* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik] ,,,
+* <b> Robot-Remote_Control </b> - Удаленный доступ к роботу через интернет или WiFi-связь [Arduino-Joistik]
 ,,,
-* <b> VideoCameras_PiplineStream </b> - Захвата видеопотока и трансляции через интернет или WiFi-связь [OpenCV] ,,, 
+* <b> VideoCameras_PiplineStream </b> - Захвата видеопотока и трансляции через интернет или WiFi-связь [OpenCV]
 ,,,
-* <b> IRCamera_OpenCV__QtWidget </b> - Захвата видеопотока с тепловизора [Optris IX80] ,,,
+* <b> IRCamera_OpenCV__QtWidget </b> - Захвата видеопотока с тепловизора [Optris IX80]
 ,,,
 * <b> Robot_SourceCode_-ESP32  </b> - Исходный код контроллера управления роботом [ESP32-WROOM-D1]
 <br/>
