@@ -12,7 +12,7 @@ https://leotronics.eu/en/
 ,,,
 * VideoCameras_PiplineStream  - Захавта видиопотока и трансляции через интернет или WiFi-связь [OpenCV] 
 ,,,
-* IInteligenEngine [ Physics System ]
+* IRCamera_OpenCV__QtWidget - Захавта видиопотока с тепловизора 
 * 
 <br/>
 
