@@ -36,10 +36,10 @@ https://leotronics.eu/en/
 
 
 # IRImage CameraXI* [OpenCV] Camera_Stream [ Client / Server ] 
+
 ```
-ghghgfh
-fghfghgfh
-gfhgh
+Захвата видеопотока с тепловизоров серии [Optris IX,,,].
+Код основан на библиотеки 
 ```
 
 ## Qt-Interface IR_Camera
