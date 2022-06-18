@@ -6,7 +6,7 @@ https://leotronics.eu/en/
 
 <br>
 
-* Nvidia-Jetson-Nano V3
+* IEngine_Robotics - Симулятор робота на основе физического симулятора законов физики [Физика - Нютона]
 * ESP32 WROOM D...
 * Qt-Freamwork
 * IInteligenEngine [ Physics System ]
