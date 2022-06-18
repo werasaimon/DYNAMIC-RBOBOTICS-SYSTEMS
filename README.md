@@ -7,7 +7,7 @@ https://leotronics.eu/en/
 <br>
 
 * IEngine_Robotics - Симулятор робота на основе физического симулятора законов физики [Физика - Нютона]
-* ESP32 WROOM D...
+* Robot-Remote_Control - Программное обеспечение для удаленного доступа к роботу через интернет или WiFi-связь [Arduino-Joistik]
 * Qt-Freamwork
 * IInteligenEngine [ Physics System ]
 * Quick summary
