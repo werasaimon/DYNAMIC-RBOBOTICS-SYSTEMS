@@ -6,9 +6,11 @@ https://leotronics.eu/en/
 
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+    CUSTOMER ||--o{ IEngine_Robotics : places
+    CUSTOMER ||--|{ Robot_SourceCode_-ESP32 : contains
+    CUSTOMER }|..|{ VideoCameras_PiplineStream : uses
+    CUSTOMER }|..|{ Robot-Remote_Control : uses2
+    CUSTOMER }|..|{ IRCamera_OpenCV__QtWidget : uses3
 ```
 
 
