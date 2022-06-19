@@ -4,6 +4,12 @@ C/C++ QT ROBOTICS ESP32 Nvidia-Jetson-Nano Arduino OpenCV
 # Пакет программ и систем для автоматизации робота пожарника !
 https://leotronics.eu/en/
 
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
 
 
 
